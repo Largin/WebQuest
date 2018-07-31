@@ -2,113 +2,33 @@
 
 console.log("scripting...");
 
-let rooms = {
-  "cell": {name: "Stone Cell", exits: [1,1,1,1,0,0,1]},
-  "hallway": {name: "Stone Hallway", exits: [1,1,1,1,0,0,4]}
+function randn_bm() {
+    let u = 0, v = 0;
+    while(u === 0) u = Math.random(); //Converting [0,1) to (0,1)
+    while(v === 0) v = Math.random();
+    return Math.sqrt( -2.0 * Math.log( u ) ) * Math.cos( 2.0 * Math.PI * v );
 }
 
-class EXITS {
-  constructor(exitsTable) {
-    this._north = !!exitsTable[0];
-    this._south = !!exitsTable[1];
-    this._west  = !!exitsTable[2];
-    this._east  = !!exitsTable[3];
-    
-    this.up    = !!exitsTable[4];
-    this.down  = !!exitsTable[5];
-    
-    this.special = false;
-    this.limit = exitsTable[6] || 4;
-  }
-  
-  closeOthers() {
-    if(this._north === true) this._north = false;
-    if(this._south === true) this._south = false;
-    if(this._west === true) this._west = false;
-    if(this._east === true) this._east = false;
-
-    if(this.up === true) this.up = false;
-    if(this.down === true) this.down = false;    
-  }
-  
-  get north() {return this._north;}
-  set north(item) {
-    if(this._north === false) return this._north;
-    if(this._north !== true) this.limit++;
-    this._north = item;
-    if((--this.limit) === 0) this.closeOthers;    
-  }
-  
-  get south() {return this._south;}
-  set south(item) {
-    if(this._south === false) return this._south;
-    if(this._south !== true) this.limit++;
-    this._south = item;
-    if((--this.limit) === 0) this.closeOthers;    
-  }
-  
-  get west() {return this._west;}
-  set west(item) {
-    if(this._west === false) return this._west;
-    if(this._west !== true) this.limit++;
-    this._west = item;
-    if((--this.limit) === 0) this.closeOthers;    
-  }
-  
-  get east() {return this._east;}
-  set east(item) {
-    if(this._east === false) return this._east;
-    if(this._east !== true) this.limit++;
-    this._east = item;
-    if((--this.limit) === 0) this.closeOthers;    
-  }  
-  
-  get neighbours() {
-    let n = {};
-    if(this._north && this._north !== true) n.north = this._north;
-    if(this._south && this._south !== true) n.south = this._south;
-    if(this._west && this._west !== true) n.west = this._west;
-    if(this._east && this._east !== true) n.east = this._east;
-    if(this.up && this.up !== true) n.up = this.up;
-    if(this.down && this.down !== true) n.down = this.down;
-    
-    return n;
-  }
+let rooms = {
+  "cell": {name: "Stone Cell", exits: {p: {door: 1}}},
+  "hallway": {name: "Stone Hallway", exits: {p: {door: 4, open: 4}}}
 }
 
 class ROOM {
   constructor(type){    
     let r = rooms[type];
-    this.exits = new EXITS(r.exits);
     this.name = r.name;
+    
+    this.possibleExits = r.exits.p;
+    this.exits = {n:false, s:false, e:false, w:false};
   }
   
-  addNeighbour(side, room) {
-    if(side == "north") {
-      this.exits.north = room;
-      room.exits.south = this;      
-    }    
-    if(side == "south") {
-      this.exits.south = room;
-      room.exits.north = this;      
-    }      
-    if(side == "west") {
-      this.exits.west = room;
-      room.exits.east = this;      
-    }   
-    if(side == "east") {
-      this.exits.east = room;
-      room.exits.west = this;      
-    }       
-    if(side == "up") {
-      this.exits.up = room;
-      room.exits.down = this;      
-    }
-    if(side == "down") {
-      this.exits.down = room;
-      room.exits.up = this;      
-    }
-    return this;
+  addExit(side, type) {
+    if(this.exits[side]) throw "Already here.";
+    if(this.possibleExits[type] > 0) {
+      this.possibleExits[type]--;
+      this.exits[side] = type;
+    } else throw "Too many of these already.";
   }
 }
 
@@ -140,10 +60,7 @@ class LAYOUT {
 class FLOOR {
   constructor() {
     this.layout = new LAYOUT();
+    
+    
   }
 }
-
-let r = new ROOM("cell");
-let h = new ROOM("hallway");
-r.addNeighbour("north", h);
-console.log(h);
