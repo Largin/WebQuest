@@ -1,0 +1,957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"node",
+				"nodeType"
+			],
+			[
+				"me",
+				"message_time"
+			],
+			[
+				"mess",
+				"message_id"
+			],
+			[
+				"mes",
+				"message_encoding"
+			],
+			[
+				"re",
+				"receiving_dev"
+			],
+			[
+				"rec",
+				"receiving_app"
+			],
+			[
+				"send",
+				"sending_dev"
+			],
+			[
+				"inv",
+				"invictus_comm"
+			],
+			[
+				"List",
+				"list"
+			],
+			[
+				"pars",
+				"parsedObjects"
+			],
+			[
+				"pa",
+				"parsedObjects"
+			],
+			[
+				"object",
+				"objectStack"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"obj",
+				"objectStack"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"source",
+				"sourceText"
+			],
+			[
+				"n",
+				"nowrap\twhite-space"
+			],
+			[
+				"wor",
+				"word-wrap\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tet",
+				"tertiary"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"auth",
+				"authorizeButton"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"vi",
+				"videoItem"
+			],
+			[
+				"off",
+				"timeOffset"
+			],
+			[
+				"offset",
+				"timeOffset"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"time",
+				"timeOffset"
+			],
+			[
+				"plays",
+				"playlistControls"
+			],
+			[
+				"playlistsC",
+				"playlistControls"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"new",
+				"newPlaylistDiv"
+			],
+			[
+				"pla",
+				"Playlist"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"createPl",
+				"createPlaylistObject"
+			],
+			[
+				"play",
+				"playlistObject"
+			],
+			[
+				"playlis",
+				"playlistUrl"
+			],
+			[
+				"add-pa",
+				"add-playlist-url"
+			],
+			[
+				"add",
+				"add-playlist"
+			],
+			[
+				"Loa",
+				"LoadStructure"
+			],
+			[
+				"Dun",
+				"Dungeon"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"doc_v",
+				"doc_version_id"
+			],
+			[
+				"loa",
+				"loadPlaylists"
+			],
+			[
+				"onc",
+				"onchange"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"item",
+				"itemLi"
+			],
+			[
+				"hand",
+				"handleDiv"
+			],
+			[
+				"video",
+				"videoId"
+			],
+			[
+				"pus",
+				"pushVideo"
+			],
+			[
+				"vide",
+				"videoId"
+			],
+			[
+				"edit",
+				"editPush"
+			],
+			[
+				"edi",
+				"editPush"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"link",
+				"linksys"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"remo",
+				"removeChild"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"paret",
+				"parentNode"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"e",
+				"editPosition"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"rese",
+				"resetPlaylists"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"read",
+				"readonly"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"vali",
+				"validateList"
+			],
+			[
+				"pl",
+				"plus"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"draw",
+				"drawSkeleton"
+			],
+			[
+				"exits",
+				"exitsAt"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ge",
+				"generateMap"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"med",
+				"confirmation_of_medical_records"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hl",
+				"Set Syntax: HL7"
+			],
+			[
+				"replace",
+				"Wikifier Replace: replace wikifier chars"
+			],
+			[
+				"reg",
+				"RegReplace: Quick Start Guide"
+			],
+			[
+				"regre",
+				"RegReplace: Documentation"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syn sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"syn j",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"sql ",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sun sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"syn javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xsl",
+				"Set Syntax: XSL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Build With: SASS"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syn xm",
+				"Set Syntax: XML"
+			],
+			[
+				"syn hl7",
+				"Set Syntax: HL7"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"syn c++",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"syn c",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"syn c+",
+				"Set Syntax: C++"
+			],
+			[
+				"syn s",
+				"Set Syntax: SQL"
+			],
+			[
+				"sy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"syn jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				" json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				" syn sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"SYN SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"packa re",
+				"Package Control: Remove Package"
+			],
+			[
+				"em",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"syn",
+				"Set Syntax: C++"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 485.0,
+		"history":
+		[
+			"sel = self.view.sel()",
+			"print \"This 1 is22a 3352sentence 50\\n3\"",
+			"print\"This 1 is22a 3352sentence 50\\n3\"",
+			"perl -e'print\"This 1 is22a 3352sentence 50\\n3\"' | perl -pe'$n=<>;s/\\d+/$&*$n/ge'",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/e/Moje/develop/WebQuest"
+	],
+	"file_history":
+	[
+		"/E/Moje/Gry/HTML/PsychoClub/Psychology.html",
+		"/E/Moje/Gry/HTML/The eWardrobe 0.5.2/The eWardrobe 0.5.20(j).html",
+		"/E/Moje/Gry/HTML/Inner Bimbo v0.5/Inner Bimbo v0.6.html",
+		"/E/Moje/Gry/HTML/Inner Bimbo v0.5/Inner Bimbo v0.6 Twine Archive.html",
+		"/E/Moje/Gry/HTML/Female Agent 1.3.6.1 P.html",
+		"/C/Soft/invictus/Invictus3/sql_script/DICOM/DICOM_nowy_comm/dicom_3_data_migration.sql",
+		"/C/Soft/invictus/Invictus3/sql_script/DICOM/DICOM_nowy_comm/dicom_2_functions.sql",
+		"/C/Soft/invictus/Invictus3/sql_script/DICOM/DICOM_nowy_comm/dicom_1_structure_and_data.sql",
+		"/C/Soft/Skrypty do naprawy błędów ludzkich.sql",
+		"/E/Moje/Gry/HTML/TF Card Battle.21/TF Card Battle .23.html",
+		"/E/Moje/Gry/HTML/Bimbo House/Bimbo House_1_1_1.html",
+		"/E/dcm4che5/server.log",
+		"/E/Moje/Gry/HTML/t1-compiled-to-t2-archive.html",
+		"/E/Moje/Gry/HTML/Webbing Quest/map.txt",
+		"/E/Moje/Gry/HTML/Escort Dreams/Escort Dreams v1.0.5.html",
+		"/E/Moje/Gry/HTML/TF Card Battle.11/TF Card Battle.html",
+		"/E/Moje/Gry/HTML/TF Card Battle.11/TF Card Battle fix.html",
+		"/E/dcm4che5/ormV5.hl7",
+		"/E/dcm4che5/ormV3.hl7",
+		"/E/Moje/Gry/HTML/08-06/sgrad/res_eng.js",
+		"/E/Moje/Gry/HTML/08-06/sgrad/index.html",
+		"/C/Soft/invictus/Invictus3/sql_script/DICOM/dicom_1_structure_and_data.sql",
+		"/C/Soft/invictus/Invictus3/sql_script/DICOM/dicom_Prezentacja_1_structure_and_data.sql",
+		"/C/Soft/invictus/Invictus3/sql_script/DICOM/Dicom_MVP/dicom_mvp_1_structure_and_data.sql",
+		"/C/Soft/invictus/Invictus3/sql_script/DICOM/Dicom_MVP/dicom_mvp_2_function.sql",
+		"/C/Users/mikuchta/AppData/Roaming/Sublime Text 3/Packages/User/reg_replace_rules.sublime-settings",
+		"/E/dcm4che5/wado1.json",
+		"/E/Moje/develop/Wiek Pary/questionFilee.txt",
+		"/E/Moje/develop/Wiek Pary/questionFiledd.txt",
+		"/E/Moje/develop/Wiek Pary/questionFile.txt",
+		"/E/Moje/develop/Wiek Pary/questionFileddd.txt",
+		"/E/Moje/develop/Wiek Pary/questionFileed.txt",
+		"/E/Moje/develop/Wiek Pary/questionFile(dopisane pytania).txt",
+		"/E/Moje/develop/Wiek Pary/questionFiled.txt",
+		"/E/Moje/Gry/HTML/The Making of a Slut/The Making of a Slut.html",
+		"/E/Moje/Gry/Escort Dreams.html",
+		"/C/Users/mikuchta/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+		"/C/Users/mikuchta/AppData/Roaming/Sublime Text 3/Packages/RegReplace/reg_replace_rules (example).sublime-settings",
+		"/C/Users/mikuchta/AppData/Roaming/Sublime Text 3/Packages/RegReplace/Default.sublime-commands",
+		"/E/Moje/Gry/HTML/GRATIS/G.R.A.T.I.S Beta1.3..html",
+		"/E/Moje/Gry/HTML/Fantasy Armor/Fantasy Armor0.0.3a.html",
+		"/E/Moje/Gry/The Curious Expedition/mods/indianaJones/mod.hjson",
+		"/E/Moje/Gry/Inform/donators.glkdata",
+		"/E/Moje/Gry/Inform/180529 Debug Unlock.gblorb",
+		"/E/Moje/Gry/HTML/Fetish Hotel 0.4.1/Fetish Hotel 0.4.1.html",
+		"/E/Moje/Gry/HTML/2037 - Almost Ready Inc_by MadAlice_0.8.1_with images/2037 - Almost Ready Inc_by MadAlice_v0.8.1.html",
+		"/C/Soft/InvProjects/lab_ivf/Win32/lab_ivf.ini",
+		"/E/Moje/Gry/dosbox/openxcom/user/mods/cheat/Cheat.rul",
+		"/E/Moje/Gry/dosbox/openxcom/standard/xcom1/craftWeapons.rul",
+		"/E/Moje/Gry/dosbox/openxcom/standard/xcom1/items.rul",
+		"/E/Moje/Gry/dosbox/openxcom/standard/xcom1/armors.rul",
+		"/E/Moje/Gry/dosbox/openxcom/user/mods/GaussMod/GaussWeaponry.rul",
+		"/E/Moje/Gry/dosbox/openxcom/user/mods/GaussMod/metadata.yml",
+		"/E/Moje/Gry/dosbox/openxcom/TFTD/README.txt",
+		"/E/Moje/Gry/RAGS/the fool of april!!!.html",
+		"/E/dcm4che5/wado.json",
+		"/E/wado",
+		"/E/Moje/Gry/SM_Pirates_Expanded.xls",
+		"/E/Moje/Gry/HTML/09-17/The Making of a Slut (2)/The Making of a Slut/The Making of a Slut.html",
+		"/E/Moje/Gry/HTML/09-17/The Making of a Slut/The Making of a Slut.html",
+		"/E/Moje/Gry/HTML/09-17/The Making of a Slut (1)/The Making of a Slut/The Making of a Slut.html",
+		"/E/Moje/Gry/Project Highrise/Game_Data/StreamingAssets/Entities.scm",
+		"/E/Moje/Gry/Project Highrise/Game_Data/StreamingAssets/Settings.scm",
+		"/E/1.xml",
+		"//192.168.0.8/Wersje Testowe/DICOM_INVICTUS/invictus.ini",
+		"/E/Moje/develop/office-medium-template/data/Definition.txt",
+		"/E/Moje/develop/office-medium-template/data/Foreground.png",
+		"/E/Moje/develop/office-medium-template/data/Background.png",
+		"/E/Moje/develop/office-medium-template/Preview.png",
+		"/E/Moje/develop/office-medium-template/Description.txt",
+		"/C/Users/mikuchta/Documents/Certyfikaty/mikuchta_publicKey",
+		"/e/Moje/develop/CK2/common/on_actions/00_on_actions.txt",
+		"/e/Moje/develop/CK2/events/oldgods_various_events.txt",
+		"/e/Moje/develop/CK2/common/achievements.txt",
+		"/e/Moje/develop/CK2/decisions/minor_decisions.txt",
+		"/e/Moje/develop/CK2/common/scripted_effects/00_scripted_effects.txt",
+		"/e/Moje/develop/CK2/common/objectives/00_ambitions.txt",
+		"/e/Moje/develop/CK2/common/artifacts/00_artifacts.txt",
+		"/e/Moje/develop/CK2/common/defines/00_dummy.lua",
+		"/e/Moje/develop/CK2/mod_republicsfixed/common/defines/RF_defines.lua",
+		"/e/Moje/develop/CK2/mod_republicsfixed/common/objectives/RF_00_plots.txt",
+		"/E/Moje/Gry/Project Highrise/Game.exe",
+		"/e/Moje/develop/CK2/events/byzantine_events.txt",
+		"/e/Moje/develop/CK2/common/on_actions/00_zeus_education.txt",
+		"/E/Moje/develop/CK2/events/ze_adolescence_events.txt",
+		"/E/Moje/develop/CK2/events/ze_childhood_events.txt",
+		"/E/Moje/develop/CK2/events/ze_education_trait_events.txt",
+		"/E/Moje/develop/CK2/events/mnm_grand_debate_events.txt",
+		"/E/Moje/develop/CK2/events/childhood_personality_traits_events.txt",
+		"/E/Moje/develop/CK2/events/birth_events.txt",
+		"/E/Moje/Gry/Inform/TrapQuest/Trap Quest Map/game.js",
+		"/E/Moje/Gry/Inform/DEBUG/tt.txt",
+		"/E/Moje/Gry/HTML/bimbo-sequencer-1.0-master/index.html",
+		"/e/Moje/Gry/Inform/TrapQuest/Trap Quest.inform/Inform/Extensions/Miscellaneous Backend/Engine Initialisation.i7x",
+		"/E/Moje/Gry/Foundation/SmartSteamEmu.ini",
+		"/E/Moje/Gry/Foundation/localization/en/general.json",
+		"/E/Moje/Gry/Foundation/localization/en/buildings.json",
+		"/E/Moje/Gry/Foundation/localization/pl/general.json",
+		"/E/Moje/Gry/Foundation/localization/de/general.json",
+		"/E/Moje/Gry/Foundation/localization/en/menu.json",
+		"/E/Moje/Gry/Foundation/localization/en/influence.json",
+		"/E/Moje/Gry/Foundation/localization/pl/buildings.json",
+		"/E/Moje/Gry/Foundation/localization/en/agents.json",
+		"/E/Moje/Gry/Foundation/localization/pl/tutorial.json",
+		"/E/Moje/Gry/Foundation/localization/eu/agents.json",
+		"/E/Moje/Gry/Foundation/localization/pl/menu.json",
+		"/E/Moje/Gry/Foundation/localization/en/tutorial.json",
+		"/E/Moje/Gry/Foundation/start.bat",
+		"/E/Moje/Gry/HTML/Tower (1)/Tower of Change.html",
+		"/E/dcm4che5/etc/findscu/mwl.xml",
+		"/E/dcm4che5/etc/findscu/study.xml",
+		"/E/dcm4che5/MR01.json",
+		"/E/dcm4che5/wado (1)",
+		"/E/dcm4che5/wado",
+		"/E/dcm4che5/etc/xml2dcm/log4j.properties",
+		"/E/dcm4che5/etc/testdata/hl7/ADT^A08.hl7",
+		"/E/dcm4che5/etc/testdata/dicom/MR01.dcm",
+		"/C/Soft/Labo.ini",
+		"//192.168.0.8/Wersje Testowe/DICOM_INVICTUS/Labo.ini",
+		"//192.168.0.8/Wersje Testowe/DICOM_INVICTUS/lab_ivf.ini",
+		"/C/Users/mikuchta/AppData/Local/Temp/uncom.tmp/edit.tmp/498c/mpps-ncreate-iod.xml",
+		"/C/Users/mikuchta/AppData/Local/Temp/uncom.tmp/edit.tmp/2028/rsp_k23.xsl",
+		"/C/Users/mikuchta/AppData/Local/Temp/uncom.tmp/edit.tmp/d771/ack.xsl",
+		"/E/Moje/Gry/Game Dev Tycoon/mods/LearnByDoing/main/learnByDoing.js",
+		"/E/Moje/Gry/Game Dev Tycoon/mods/_Modding Agreement.rtf",
+		"/E/Moje/Gry/Game Dev Tycoon/mods/percentager/main.js",
+		"/E/Moje/Gry/Game Dev Tycoon/mods/percentager/main/code.js",
+		"/E/Moje/Gry/HTML/08-06/secretary/secretary_0.3.0.4.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 172.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 90.0
+	},
+	"output.exec":
+	{
+		"height": 247.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 144.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.reg_replace":
+	{
+		"height": 293.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "WebQuest.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
